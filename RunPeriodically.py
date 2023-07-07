@@ -3,7 +3,7 @@ import sched
 import stock_predictor
 import OperateDB
 
-num_days = 3
+num_days = 10
 
 # 定义一个函数，用于每24hrs运行一次
 # 创建一个调度器对象
